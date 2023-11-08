@@ -1,0 +1,37 @@
+{
+  "discord": {
+    "token": "",
+
+    "status": {
+      "type": "dnd",
+      "text": "ogusers.gg"
+    }
+  },
+
+  "guild": {
+    "id": "1115373459703353364",
+
+    "general-channel": "general",
+    
+    "tickets-category": "1162823065982480424",
+    "tickets-logs-channel": "1162373256913879111",
+
+    "mirror-webhook": "1124398041932255272/vtuNtcFBaz5PSFa2JKe8tc2eSaQ0SFRH4t3PPfU_jREDEPh5DvjDJl7-wXmdhj7lkEtA"
+  },
+
+  "roles": {
+    "purge-revive": "1115385449339424858",
+    "verified": "1115379894260617307",
+    "revolution": "1115379894541619242",
+    "luminary": "1115379896018018354",
+    "staff": [
+      "1106046100571430962",
+      "722651951220916314",
+      "448304998397378570",
+      "1122278411155546262",
+      "905597407121776700",
+      "256281238824943616",
+      "925012441518198854"
+    ]
+  }
+}
